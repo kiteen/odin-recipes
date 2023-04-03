@@ -1,2 +1,2 @@
 # odin-recipes
-This project is a basic HTML website that features historical recipes for liquid refreshments from libraries and archives around the world. Developing this project gave me the opportunity to put knowledge of Git Basics and HTML Foundations (especially working with links, images, and lists) into action. 
+This project is a basic HTML website that features historical recipes from archives around the world. Developing this project gave me the opportunity to put knowledge of Git Basics and HTML Foundations (especially links, images, and lists) into action. 
