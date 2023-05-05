@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(85, 44, 60)
+}
+
+h2  {
+    display: table;
+    padding-inline: 5px;
+    background-color: rgb(85, 44, 60);
+    color: rgb(210, 162, 180);
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: rgb(89, 144, 175);
+}
